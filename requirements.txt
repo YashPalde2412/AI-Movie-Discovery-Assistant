@@ -1,1 +1,9 @@
 # Dependencies will be added step by step
+streamlit
+pandas
+numpy
+scikit-learn
+sentence-transformers
+google-genai
+requests
+python-dotenv
